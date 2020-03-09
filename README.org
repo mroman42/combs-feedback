@@ -1,0 +1,7 @@
+* Infinite Comb Diagrams
+
+A short note on infinite comb diagrams.
+
+The data for many useful bidirectional constructions in applied category theory (optics, learners, games, quantum combs) can be expressed in terms of diagrams containing /holes/ or /incomplete parts/, sometimes known as /comb diagrams/. We give a possible formalization of what these circuits with /incomplete parts/ represent in terms of symmetric monoidal categories, using the dinaturality equivalence relations arising from a coend.  Our main idea is to extend this formal description to allow for infinite circuits with holes indexed by the natural numbers. We show how infinite combs over an arbitrary symmetric monoidal category form again a symmetric monoidal category where notions of /delay/ and /feedback/ can be considered.
+
+/Am I wrong? Are there references missing? Is this related to something else? Feel free to open an issue!/
