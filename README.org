@@ -1,4 +1,4 @@
-* Combs for Discrete-Time Feedback
+* Comb Diagrams for Discrete-Time Feedback
 
 A short note on infinite comb diagrams and how to use them to model feedback.
 
